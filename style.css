@@ -1,0 +1,55 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+hr {
+  margin: auto 10rem ;
+}
+
+li {
+    list-style-type: none;
+  }
+
+header {
+    background-color: #008060;
+    color: white; 
+}
+
+.style {
+  color: #008060;
+  text-decoration: none;
+}
+
+.container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.container-header {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.container-img {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  text-align: center;
+  margin: auto;
+}
+
+.list-icon {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.parceiros {
+  display: flex;
+  justify-content: space-between;
+}
